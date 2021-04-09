@@ -7,7 +7,7 @@ package calculadora;
 
 /**
  *
- * @author Javier
+ * @author Javier Bustamante
  */
 public class Calculadora {
 
